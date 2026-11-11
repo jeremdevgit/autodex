@@ -1,0 +1,14 @@
+node_modules/
+dist/
+public/ort/
+data/
+src-tauri/target/
+src-tauri/gen/
+.DS_Store
+.env
+.env.*
+*.log
+*.key
+*.pem
+*.p12
+*.pfx

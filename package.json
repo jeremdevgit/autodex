@@ -1,0 +1,41 @@
+{
+  "name": "autodex",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "predev": "node scripts/copy-ort.mjs",
+    "dev": "vite --host 0.0.0.0",
+    "prebuild": "node scripts/copy-ort.mjs",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "server": "node server/index.mjs",
+    "test": "vitest run",
+    "desktop:dev": "tauri dev",
+    "desktop:build": "tauri build"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2.8.0",
+    "lucide-react": "^0.468.0",
+    "onnxruntime-web": "^1.22.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.8.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "vite": "^7.0.0",
+    "vitest": "^3.2.7"
+  },
+  "description": "Snap, identify and collect cars: an offline car collection game with on-device AI.",
+  "license": "GPL-3.0-or-later",
+  "author": "jeremdevgit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeremdevgit/autodex.git"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

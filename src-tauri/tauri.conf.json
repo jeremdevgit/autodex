@@ -1,0 +1,33 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "AutoDex",
+  "version": "0.1.0",
+  "identifier": "com.jeremdevgit.autodex",
+  "build": {
+    "beforeDevCommand": "npm run dev",
+    "devUrl": "http://localhost:5173",
+    "beforeBuildCommand": "npm run build",
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "windows": [
+      { "title": "AutoDex", "width": 1280, "height": 860, "minWidth": 380, "minHeight": 560, "backgroundColor": "#0e1816" }
+    ],
+    "security": {
+      "csp": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob: mediastream:; worker-src 'self' blob:; connect-src 'self' ipc: http://ipc.localhost http: https:"
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": ["nsis", "dmg", "deb", "appimage"],
+    "publisher": "jeremdevgit",
+    "copyright": "© 2026 jeremdevgit — GPL-3.0-or-later",
+    "category": "Entertainment",
+    "shortDescription": "Snap, identify and collect cars",
+    "longDescription": "AutoDex turns car spotting into a collection game: take a photo, the on-device AI suggests the model, and the car is unlocked in your collection.",
+    "licenseFile": "../LICENSE",
+    "icon": ["icons/32x32.png", "icons/128x128.png", "icons/128x128@2x.png", "icons/icon.icns", "icons/icon.ico"],
+    "windows": { "nsis": { "languages": ["English", "French", "Spanish", "German", "Italian", "Portuguese", "SimpChinese", "Japanese"], "displayLanguageSelector": true, "installMode": "currentUser" } },
+    "macOS": { "minimumSystemVersion": "11.0" }
+  }
+}
