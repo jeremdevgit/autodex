@@ -21,14 +21,14 @@ export function rarityOf(value, type, popular) {
 
 const slug = s => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
-function parse(text, popular) {
-  return text.trim().split('\n').map(line => {
-    const [brand, model, year, type, value, hp, energy, ai] = line.split('|');
+export function parseRows(text, popular) {
+  return text.split(/\r?\n/).map(line => line.trim()).filter(Boolean).map(line => {
+    const [brand, model, year, type, value, hp, energy, ai = ''] = line.split('|').map(field => field.trim());
     return { brand, model, year: Number(year), type, value: Number(value), hp: Number(hp), energy, ai: ai === '' ? null : Number(ai), popular };
   });
 }
 
-export const catalog = [...parse(editorialRows, true), ...parse(extraRows, true), ...parse(aiRows, false)]
+export const catalog = [...parseRows(editorialRows, true), ...parseRows(extraRows, true), ...parseRows(aiRows, false)]
   .map(car => ({
     ...car,
     id: slug(`${car.brand}-${car.model}-${car.year}`),

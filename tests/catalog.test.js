@@ -53,3 +53,12 @@ describe('i18n', () => {
     }
   });
 });
+
+describe('catalogue parsing', () => {
+  it('ignores Windows line endings', async () => {
+    const { parseRows } = await import('../src/catalog.js');
+    const rows = parseRows('Peugeot|205|1983|city|8000|60|petrol|\r\nAudi|A4|2012|sedan|9000|143|diesel|7\r\n', true);
+    expect(rows[0].ai).toBeNull();
+    expect(rows[1].ai).toBe(7);
+  });
+});

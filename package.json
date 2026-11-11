@@ -20,13 +20,13 @@
     "onnxruntime-web": "^1.22.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "three": "^0.180.0"
+    "three": "^0.187.0"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^2.8.0",
-    "@vitejs/plugin-react": "^5.0.0",
-    "vite": "^7.0.0",
-    "vitest": "^3.2.7"
+    "@vitejs/plugin-react": "^6.2.1",
+    "vite": "^8.3.6",
+    "vitest": "^5.1.0"
   },
   "description": "Snap, identify and collect cars: an offline car collection game with on-device AI.",
   "license": "GPL-3.0-or-later",
