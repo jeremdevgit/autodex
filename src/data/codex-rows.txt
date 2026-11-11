@@ -1,0 +1,154 @@
+Peugeot|205|1983|city|8000|60|petrol|
+Volkswagen|Golf II|1983|compact|9500|75|petrol|
+Renault|Super 5|1984|city|6500|60|petrol|
+Toyota|Land Cruiser J70|1984|suv|32000|105|diesel|
+BMW|Série 3 E30|1985|sedan|25000|129|petrol|
+Mercedes-Benz|Classe E W124|1985|sedan|17000|136|petrol|
+Ford|Sierra Cosworth|1986|sports|65000|204|petrol|
+Porsche|959|1986|supercar|1500000|450|petrol|
+Peugeot|405|1987|sedan|6500|110|petrol|
+Ferrari|F40|1987|supercar|2500000|478|petrol|
+Honda|Civic IV|1988|compact|6500|90|petrol|
+Volkswagen|Passat B3|1988|sedan|5000|90|petrol|
+Mazda|MX-5 NA|1989|convertible|14000|115|petrol|
+Nissan|Skyline GT-R R32|1989|sports|85000|280|petrol|
+Toyota|Corolla E90|1990|compact|6000|90|petrol|
+Renault|Clio I|1990|city|5000|75|petrol|
+Honda|NSX|1990|supercar|110000|274|petrol|
+Volkswagen|Golf III|1991|compact|5500|90|petrol|190
+Opel|Astra F|1991|compact|4000|90|petrol|
+Peugeot|106|1991|city|5000|75|petrol|
+BMW|Série 3 E36|1992|sedan|8500|150|petrol|
+Subaru|Impreza|1992|sedan|22000|211|petrol|
+Ford|Mondeo|1993|sedan|4500|115|petrol|
+Toyota|Supra A80|1993|sports|95000|330|petrol|
+Fiat|Punto I|1993|city|3500|75|petrol|
+Renault|Twingo I|1993|city|4000|55|petrol|
+Audi|A4 B5|1994|sedan|5000|125|petrol|
+Peugeot|306|1994|compact|5500|90|petrol|
+Land Rover|Discovery II|1995|suv|12000|136|diesel|
+Honda|Civic VI|1995|compact|6500|114|petrol|
+BMW|Série 5 E39|1995|sedan|8000|170|petrol|
+Mercedes-Benz|Classe E W210|1995|sedan|5500|150|diesel|
+Porsche|Boxster 986|1996|convertible|18000|204|petrol|
+Volkswagen|Passat B5|1996|sedan|4000|110|diesel|
+Renault|Scénic I|1996|minivan|3500|115|petrol|
+Ford|Focus I|1998|compact|4500|100|petrol|
+Volkswagen|Golf IV|1998|compact|5000|110|diesel|
+Peugeot|206|1998|city|4200|75|petrol|
+Audi|TT 8N|1998|sports|12500|180|petrol|
+Fiat|Multipla|1998|minivan|4500|103|petrol|
+Toyota|Yaris I|1999|city|4800|68|petrol|
+Nissan|Skyline GT-R R34|1999|sports|180000|280|petrol|
+BMW|X5 E53|1999|suv|9000|184|diesel|
+Honda|S2000|1999|convertible|34000|240|petrol|
+Toyota|Prius II|2003|sedan|6500|110|hybrid|
+Mini|Cooper R50|2001|city|6000|115|petrol|
+Renault|Laguna II|2001|sedan|3500|120|diesel|
+Peugeot|307|2001|compact|4000|110|petrol|
+Porsche|911 996|2001|sports|30000|320|petrol|
+Volkswagen|Touareg I|2002|suv|9000|174|diesel|
+Renault|Mégane II|2002|compact|3800|115|petrol|
+Mazda|6 I|2002|sedan|4500|120|diesel|
+Volvo|XC90 I|2002|suv|10500|185|diesel|194
+Nissan|350Z|2003|sports|18000|280|petrol|
+Peugeot|407|2004|sedan|4000|136|diesel|
+Audi|A3 8P|2004|compact|6000|140|diesel|
+BMW|Série 1 E87|2004|compact|6500|118|petrol|
+Bugatti|Veyron|2005|supercar|1800000|1001|petrol|45
+Ford|Mustang V|2005|sports|23000|300|petrol|
+Renault|Clio III|2005|city|5000|85|petrol|
+Volkswagen|Golf V|2005|compact|5500|140|petrol|
+Toyota|Yaris II|2005|city|5500|87|petrol|
+Honda|Civic VIII|2006|compact|7000|140|petrol|
+Audi|Q7 I|2006|suv|12000|233|diesel|
+Citroën|C4 Picasso I|2006|minivan|5000|110|diesel|
+Peugeot|207|2006|city|4500|90|petrol|
+Fiat|500|2007|city|6500|69|petrol|
+Nissan|Qashqai I|2007|suv|6500|106|diesel|
+BMW|Série 3 E90|2007|sedan|7500|143|diesel|
+Audi|A4 B8|2008|sedan|8500|143|diesel|
+Renault|Mégane III|2008|compact|5700|110|diesel|
+Volkswagen|Golf VI|2008|compact|7200|105|diesel|191
+Ford|Fiesta VI|2008|city|5200|82|petrol|
+Peugeot|3008 I|2009|suv|6200|110|diesel|
+Toyota|Prius III|2009|sedan|8500|136|hybrid|
+Porsche|Panamera I|2009|sedan|23000|300|petrol|172
+Renault|Clio IV|2012|city|8000|90|petrol|
+Volkswagen|Polo V|2010|city|6500|85|petrol|
+Nissan|Leaf I|2010|compact|8500|109|electric|169
+BMW|Série 5 F10|2010|sedan|13000|184|diesel|
+Audi|A1|2010|city|8500|86|petrol|
+Citroën|DS3|2010|city|8000|120|petrol|
+Land Rover|Range Rover Evoque|2011|suv|16000|150|diesel|
+Volkswagen|Up!|2011|city|5800|60|petrol|
+Toyota|Yaris III|2011|city|8500|100|hybrid|
+Ford|Focus III|2011|compact|6500|125|petrol|
+Peugeot|208 I|2012|city|7800|82|petrol|
+Volkswagen|Golf VII|2012|compact|11000|110|petrol|
+Tesla|Model S|2012|sedan|25000|422|electric|184
+Mazda|CX-5|2012|suv|12500|150|diesel|
+Renault|Captur I|2013|suv|9000|90|petrol|
+BMW|i3|2013|city|12500|170|electric|
+Mercedes-Benz|Classe A W176|2013|compact|13500|122|petrol|
+Peugeot|308 II|2013|compact|10500|130|petrol|
+Audi|A3 8V|2013|compact|13000|150|diesel|
+Porsche|Macan|2014|suv|32000|258|diesel|
+Citroën|C4 Cactus|2014|suv|8500|82|petrol|
+Ford|Mustang VI|2015|sports|32000|317|petrol|
+Renault|Kadjar|2015|suv|11500|110|diesel|
+Volkswagen|Tiguan II|2016|suv|19000|150|diesel|
+Peugeot|3008 II|2016|suv|17000|130|petrol|
+Tesla|Model X|2016|suv|43000|525|electric|
+Toyota|C-HR|2016|suv|18000|122|hybrid|
+Renault|Scénic IV|2016|minivan|13000|130|diesel|
+Citroën|C3 III|2016|city|9500|82|petrol|
+Alfa Romeo|Giulia|2017|sedan|24000|200|petrol|
+Seat|Arona|2017|suv|13000|95|petrol|
+Volkswagen|T-Roc|2017|suv|17000|115|petrol|
+Kia|Stinger|2017|sports|30000|370|petrol|
+Tesla|Model 3|2018|sedan|27000|283|electric|
+Renault|Clio V|2019|city|13500|100|petrol|
+Peugeot|208 II|2019|city|14500|100|petrol|
+Toyota|Corolla XII|2019|compact|19000|122|hybrid|
+BMW|Série 3 G20|2019|sedan|26000|184|petrol|
+Mazda|3 IV|2019|compact|18000|122|petrol|
+Volkswagen|Golf VIII|2020|compact|22000|110|petrol|
+Tesla|Model Y|2020|suv|34000|299|electric|
+Land Rover|Defender L663|2020|suv|65000|200|diesel|
+Toyota|Yaris IV|2020|city|17000|116|hybrid|
+Fiat|500e|2020|city|18500|95|electric|
+Volkswagen|ID.3|2020|compact|23000|204|electric|
+Dacia|Sandero III|2021|city|11500|90|petrol|
+Hyundai|Ioniq 5|2021|suv|31000|218|electric|
+Kia|EV6|2021|suv|35000|229|electric|
+Mercedes-Benz|Classe C W206|2021|sedan|38000|204|hybrid|
+Peugeot|308 III|2021|compact|23000|130|petrol|
+Renault|Mégane E-Tech|2022|compact|25000|220|electric|
+Volkswagen|ID. Buzz|2022|minivan|48000|204|electric|
+Toyota|Corolla Cross|2022|suv|27000|197|hybrid|
+BMW|i4|2022|sedan|39000|340|electric|
+Citroën|C5 X|2022|sedan|25000|130|petrol|
+Dacia|Jogger|2022|minivan|17000|110|petrol|
+MG|MG4|2022|compact|22000|170|electric|
+Tesla|Model Y Propulsion|2023|suv|35000|299|electric|
+BYD|Atto 3|2023|suv|29000|204|electric|
+Renault|Austral|2023|suv|28000|200|hybrid|
+Peugeot|408|2023|sedan|32000|130|petrol|
+Volvo|EX30|2023|suv|32000|272|electric|
+Hyundai|Kona II|2023|suv|26000|141|hybrid|
+Toyota|C-HR II|2024|suv|32000|140|hybrid|
+Renault|5 E-Tech|2024|city|28000|150|electric|
+Citroën|ë-C3|2024|city|23000|113|electric|
+Dacia|Duster III|2024|suv|22000|140|hybrid|
+Volkswagen|ID.7|2024|sedan|50000|286|electric|
+Porsche|Macan Electric|2024|suv|85000|340|electric|
+Peugeot|3008 III|2024|suv|39000|136|hybrid|
+Kia|EV3|2025|suv|35000|204|electric|
+Renault|4 E-Tech|2025|suv|31000|150|electric|
+Skoda|Elroq|2025|suv|34000|204|electric|
+Audi|Q6 e-tron|2025|suv|71000|292|electric|
+Toyota|RAV4 V|2025|suv|37000|218|hybrid|
+Honda|CR-V VI|2025|suv|41000|184|hybrid|
+Ford|Puma Gen-E|2025|suv|33000|168|electric|
+BYD|Seal|2025|sedan|36000|313|electric|

@@ -1,0 +1,189 @@
+AM General|Hummer H1|2000|suv|60000|195|diesel|0
+Acura|Integra Type R|2001|sports|35000|195|petrol|1
+Acura|RL|2012|sedan|12000|304|petrol|2
+Acura|TL|2012|sedan|13000|284|petrol|3
+Acura|TL Type-S|2008|sedan|10000|291|petrol|4
+Acura|TSX|2012|sedan|11000|204|petrol|5
+Acura|ZDX|2012|suv|14000|304|petrol|6
+Aston Martin|V8 Vantage Roadster|2012|convertible|60000|426|petrol|7
+Aston Martin|V8 Vantage|2012|sports|55000|426|petrol|8
+Aston Martin|Virage Volante|2012|convertible|90000|497|petrol|9
+Aston Martin|Virage|2012|sports|85000|497|petrol|10
+Audi|100 C4|1994|sedan|4000|133|petrol|11
+Audi|100 Avant C4|1994|wagon|4500|133|petrol|12
+Audi|A5 Coupé|2012|coupe|14000|211|petrol|13
+Audi|R8|2012|supercar|80000|430|petrol|14
+Audi|RS 4 Cabriolet|2008|convertible|35000|420|petrol|15
+Audi|S4 B7|2007|sedan|14000|344|petrol|16
+Audi|S4 B8|2012|sedan|20000|333|petrol|17
+Audi|S5 Cabriolet|2012|convertible|22000|333|petrol|18
+Audi|S5 Coupé|2012|coupe|20000|333|petrol|19
+Audi|S6 C6|2011|sedan|18000|435|petrol|20
+Audi|TT 8J|2011|coupe|12000|211|petrol|21
+Audi|TT RS|2012|sports|35000|340|petrol|22
+Audi|TTS|2012|sports|18000|272|petrol|23
+Audi|V8|1994|sedan|9000|280|petrol|24
+BMW|Série 1 Cabriolet E88|2012|convertible|11000|143|diesel|25
+BMW|Série 1 Coupé E82|2012|coupe|11000|143|diesel|26
+BMW|Série 3 F30|2012|sedan|13000|184|diesel|27
+BMW|Série 3 Touring F31|2012|wagon|13000|184|diesel|28
+BMW|Série 6 Cabriolet E64|2007|convertible|15000|272|petrol|29
+BMW|ActiveHybrid 5|2012|sedan|16000|340|hybrid|30
+BMW|M3 E92|2012|sports|40000|420|petrol|31
+BMW|M5 E60|2010|sports|30000|507|petrol|32
+BMW|M6 Cabriolet E64|2010|convertible|32000|507|petrol|33
+BMW|X3 F25|2012|suv|15000|184|diesel|34
+BMW|X5 E70|2007|suv|11000|235|diesel|35
+BMW|X6 E71|2012|suv|20000|306|petrol|36
+BMW|Z4 E89|2012|convertible|18000|245|petrol|37
+Bentley|Arnage|2009|sedan|45000|507|petrol|38
+Bentley|Continental Flying Spur|2007|sedan|35000|560|petrol|39
+Bentley|Continental GT|2007|coupe|40000|560|petrol|40
+Bentley|Continental GT II|2012|coupe|70000|575|petrol|41
+Bentley|Continental Supersports Convertible|2012|convertible|120000|630|petrol|42
+Bentley|Mulsanne|2011|sedan|80000|512|petrol|43
+Bugatti|Veyron 16.4 Grand Sport|2009|supercar|1800000|1001|petrol|44
+Buick|Enclave|2012|suv|10000|288|petrol|46
+Buick|Rainier|2007|suv|6000|294|petrol|47
+Buick|Regal GS|2012|sedan|10000|270|petrol|48
+Buick|Verano|2012|sedan|8000|180|petrol|49
+Cadillac|CTS-V|2012|sports|35000|564|petrol|50
+Cadillac|Escalade EXT|2007|pickup|18000|409|petrol|51
+Cadillac|SRX|2012|suv|11000|308|petrol|52
+Chevrolet|Avalanche|2012|pickup|16000|325|petrol|53
+Chevrolet|Camaro Cabriolet|2012|convertible|20000|432|petrol|54
+Chevrolet|Cobalt SS|2010|sports|9000|264|petrol|55
+Chevrolet|Corvette C6 Convertible|2012|convertible|35000|436|petrol|56
+Chevrolet|Corvette Z06 Ron Fellows|2007|supercar|60000|512|petrol|57
+Chevrolet|Corvette ZR1|2012|supercar|90000|647|petrol|58
+Chevrolet|Express Cargo|2007|van|9000|299|petrol|59
+Chevrolet|Express Passenger|2007|van|10000|299|petrol|60
+Chevrolet|HHR SS|2010|compact|8000|264|petrol|61
+Chevrolet|Impala|2007|sedan|5000|214|petrol|62
+Chevrolet|Malibu Hybrid|2010|sedan|6000|166|hybrid|63
+Chevrolet|Malibu|2007|sedan|4500|146|petrol|64
+Chevrolet|Monte Carlo|2007|coupe|6000|244|petrol|65
+Chevrolet|Silverado 1500 Classic|2007|pickup|10000|299|petrol|66
+Chevrolet|Silverado 1500 Extended Cab|2012|pickup|15000|319|petrol|67
+Chevrolet|Silverado Hybrid|2012|pickup|17000|337|hybrid|68
+Chevrolet|Silverado 1500 Regular Cab|2012|pickup|13000|199|petrol|69
+Chevrolet|Silverado 2500HD|2012|pickup|20000|365|petrol|70
+Chevrolet|Sonic|2012|city|6000|140|petrol|71
+Chevrolet|Tahoe Hybrid|2012|suv|20000|337|hybrid|72
+Chevrolet|TrailBlazer SS|2009|suv|12000|395|petrol|73
+Chevrolet|Traverse|2012|suv|10000|285|petrol|74
+Chrysler|300 SRT-8|2010|sedan|18000|431|petrol|75
+Chrysler|Aspen|2009|suv|9000|380|petrol|76
+Chrysler|Crossfire Roadster|2008|convertible|10000|218|petrol|77
+Chrysler|PT Cruiser Cabrio|2008|convertible|4000|152|petrol|78
+Chrysler|Sebring Convertible|2010|convertible|5000|189|petrol|79
+Chrysler|Town & Country|2012|minivan|10000|287|petrol|80
+Daewoo|Nubira Break|2002|wagon|1500|136|petrol|81
+Dodge|Caliber|2007|compact|3500|158|petrol|82
+Dodge|Caliber phase 2|2012|compact|5500|158|petrol|83
+Dodge|Caravan|1997|minivan|2000|160|petrol|84
+Dodge|Challenger SRT8|2011|sports|28000|476|petrol|85
+Dodge|Charger SRT-8|2009|sedan|18000|431|petrol|86
+Dodge|Charger|2012|sedan|12000|296|petrol|87
+Dodge|Dakota Club Cab|2007|pickup|7000|213|petrol|88
+Dodge|Dakota Crew Cab|2010|pickup|9000|213|petrol|89
+Dodge|Durango II|2007|suv|6000|307|petrol|90
+Dodge|Durango III|2012|suv|13000|294|petrol|91
+Dodge|Journey|2012|suv|8000|170|diesel|92
+Dodge|Magnum|2008|wagon|9000|345|petrol|93
+Dodge|Ram 3500 Crew Cab|2010|pickup|22000|355|diesel|94
+Dodge|Ram 3500 Quad Cab|2009|pickup|20000|355|diesel|95
+Dodge|Sprinter Cargo|2009|van|12000|154|diesel|96
+Eagle|Talon|1998|sports|6000|213|petrol|97
+Fiat|500 Abarth|2012|city|12000|135|petrol|98
+Fiat|500C|2012|convertible|7500|69|petrol|99
+Ferrari|458 Spider|2012|supercar|220000|570|petrol|100
+Ferrari|458 Italia|2012|supercar|200000|570|petrol|101
+Ferrari|California|2012|convertible|110000|460|petrol|102
+Ferrari|FF|2012|supercar|130000|660|petrol|103
+Fisker|Karma|2012|sedan|50000|409|hybrid|104
+Ford|E-Series Wagon|2012|van|14000|255|petrol|105
+Ford|Edge|2012|suv|11000|289|petrol|106
+Ford|Expedition EL|2009|suv|12000|314|petrol|107
+Ford|F-150 XII Regular Cab|2007|pickup|9000|231|petrol|108
+Ford|F-150 XIII Regular Cab|2012|pickup|15000|306|petrol|109
+Ford|F-450 Super Duty|2012|pickup|35000|405|diesel|110
+Ford|Fiesta Sedan|2012|city|6000|122|petrol|111
+Ford|Focus Sedan|2007|compact|3500|138|petrol|112
+Ford|Freestar|2007|minivan|3500|204|petrol|113
+Ford|GT|2006|supercar|450000|558|petrol|114
+Ford|Mustang Convertible|2007|convertible|14000|304|petrol|115
+Ford|Ranger SuperCab|2011|pickup|10000|209|petrol|116
+GMC|Acadia|2012|suv|11000|292|petrol|117
+GMC|Canyon Extended Cab|2012|pickup|11000|245|petrol|118
+GMC|Savana|2012|van|14000|330|petrol|119
+GMC|Terrain|2012|suv|9000|185|petrol|120
+GMC|Yukon Hybrid|2012|suv|20000|337|hybrid|121
+Geo|Metro Convertible|1993|convertible|3000|56|petrol|122
+Hummer|H2 SUT|2009|pickup|35000|398|petrol|123
+Hummer|H3T|2010|pickup|20000|304|petrol|124
+Honda|Accord Coupé|2012|coupe|11000|274|petrol|125
+Honda|Accord|2012|sedan|10000|180|petrol|126
+Honda|Odyssey III|2007|minivan|5000|248|petrol|127
+Honda|Odyssey IV|2012|minivan|10000|252|petrol|128
+Hyundai|Accent|2012|city|6000|140|petrol|129
+Hyundai|Azera|2012|sedan|9000|297|petrol|130
+Hyundai|Elantra|2007|compact|3000|140|petrol|131
+Hyundai|Elantra Touring|2012|wagon|6500|140|petrol|132
+Hyundai|Genesis|2012|sedan|12000|338|petrol|133
+Hyundai|Santa Fe|2012|suv|9000|197|diesel|134
+Hyundai|Sonata Hybrid|2012|sedan|8000|209|hybrid|135
+Hyundai|Sonata|2012|sedan|7500|200|petrol|136
+Hyundai|Tucson ix35|2012|suv|9000|136|diesel|137
+Hyundai|Veloster|2012|coupe|8000|140|petrol|138
+Hyundai|Veracruz|2012|suv|9000|264|petrol|139
+Infiniti|G37 Coupé IPL|2012|sports|20000|354|petrol|140
+Infiniti|QX56|2011|suv|20000|405|petrol|141
+Isuzu|Ascender|2008|suv|6000|294|petrol|142
+Jaguar|XKR|2012|sports|40000|510|petrol|143
+Jeep|Compass|2012|suv|8000|170|petrol|144
+Jeep|Grand Cherokee WK2|2012|suv|17000|241|diesel|145
+Jeep|Liberty|2012|suv|9000|177|diesel|146
+Jeep|Patriot|2012|suv|8000|172|petrol|147
+Jeep|Wrangler JK|2012|suv|22000|200|diesel|148
+Lamborghini|Aventador LP 700-4|2012|supercar|330000|700|petrol|149
+Lamborghini|Diablo|2001|supercar|300000|550|petrol|150
+Lamborghini|Gallardo LP 570-4 Superleggera|2012|supercar|190000|570|petrol|151
+Lamborghini|Reventón|2008|supercar|2000000|650|petrol|152
+Land Rover|Freelander 2|2012|suv|12000|190|diesel|153
+Land Rover|Range Rover L322|2012|suv|25000|313|diesel|154
+Lincoln|Town Car|2011|sedan|10000|243|petrol|155
+Mini|Cooper Roadster|2012|convertible|12000|122|petrol|156
+Maybach|62 S Landaulet|2012|convertible|1300000|620|petrol|157
+Mazda|Tribute|2011|suv|6000|240|petrol|158
+McLaren|MP4-12C|2012|supercar|120000|600|petrol|159
+Mercedes-Benz|300 CE Cabriolet A124|1993|convertible|35000|220|petrol|160
+Mercedes-Benz|Classe C W204|2012|sedan|13000|170|diesel|161
+Mercedes-Benz|Classe E W212|2012|sedan|15000|204|diesel|162
+Mercedes-Benz|Classe S W221|2012|sedan|25000|258|diesel|163
+Mercedes-Benz|SL R230|2009|convertible|25000|388|petrol|164
+Mercedes-Benz|Sprinter|2012|van|15000|163|diesel|165
+Mitsubishi|Lancer|2012|sedan|7000|143|petrol|166
+Nissan|240SX S14|1998|sports|15000|155|petrol|167
+Nissan|Juke|2012|suv|8000|117|petrol|168
+Nissan|NV Passenger|2012|van|15000|322|petrol|170
+Plymouth|Neon Coupé|1999|coupe|1500|152|petrol|171
+Ram|C/V Cargo Van|2012|van|9000|287|petrol|173
+Rolls-Royce|Ghost|2012|sedan|110000|570|petrol|174
+Rolls-Royce|Phantom Drophead Coupé|2012|convertible|300000|460|petrol|175
+Rolls-Royce|Phantom|2012|sedan|170000|460|petrol|176
+Scion|xD|2012|city|7000|130|petrol|177
+Spyker|C8 Spyder|2009|supercar|250000|400|petrol|178
+Spyker|C8 Laviolette|2009|supercar|250000|400|petrol|179
+Suzuki|Aerio|2007|compact|2000|155|petrol|180
+Suzuki|Kizashi|2012|sedan|7000|178|petrol|181
+Suzuki|SX4|2012|compact|6000|120|petrol|182
+Suzuki|SX4 Sedan|2012|sedan|6000|120|petrol|183
+Toyota|4Runner|2012|suv|20000|274|petrol|185
+Toyota|Camry|2012|sedan|10000|181|petrol|186
+Toyota|Corolla E140|2012|sedan|8000|132|petrol|187
+Toyota|Sequoia|2012|suv|22000|386|petrol|188
+Volkswagen|Beetle A5|2012|city|10000|105|petrol|189
+Volvo|240|1993|sedan|5000|116|petrol|192
+Volvo|C30|2012|compact|7000|150|diesel|193
+Smart|Fortwo Cabrio|2012|convertible|5000|71|petrol|195

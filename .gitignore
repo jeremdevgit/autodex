@@ -1,7 +1,7 @@
 node_modules/
 dist/
 public/ort/
-data/
+/data/
 src-tauri/target/
 src-tauri/gen/
 .DS_Store
