@@ -20,7 +20,7 @@
     "onnxruntime-web": "^1.22.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "three": "^0.180.0"
+    "three": "^0.187.0"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^2.8.0",
