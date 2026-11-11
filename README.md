@@ -1,3 +1,5 @@
+<p align="center"><img src="public/icon-512.png" width="96" alt=""></p>
+
 # AutoDex
 
 [![CI](https://github.com/jeremdevgit/autodex/actions/workflows/ci.yml/badge.svg)](https://github.com/jeremdevgit/autodex/actions/workflows/ci.yml) [![CodeQL](https://github.com/jeremdevgit/autodex/actions/workflows/codeql.yml/badge.svg)](https://github.com/jeremdevgit/autodex/actions/workflows/codeql.yml) [![License: GPL-3.0-or-later](https://img.shields.io/badge/license-GPL--3.0--or--later-blue)](LICENSE) [![Release](https://img.shields.io/github/v/release/jeremdevgit/autodex?include_prereleases)](https://github.com/jeremdevgit/autodex/releases)
@@ -57,19 +59,19 @@ No telemetry, no account, no external request: the AI model, fonts and runtime a
 
 Maintainer: [jeremdevgit](https://github.com/jeremdevgit). Licensed under GPL-3.0-or-later. Credits and licences of the model and libraries: [THIRD_PARTY.md](THIRD_PARTY.md). Changes: [CHANGELOG.md](CHANGELOG.md). AutoDex is not affiliated with any car manufacturer; brand and model names belong to their owners.
 
-## My software
+## My other software
 
-All free and open source — [github.com/jeremdevgit](https://github.com/jeremdevgit):
+All free, open source and ad-free — [github.com/jeremdevgit](https://github.com/jeremdevgit):
 
 | Software | Platform | In short |
 |---|---|---|
-| [Boîte à outils](https://github.com/jeremdevgit/boite-a-outils) | Windows, macOS | Computer maintenance and file search |
+| [Boîte à outils](https://github.com/jeremdevgit/boite-a-outils) | Windows, macOS | Computer maintenance, cleanup and file search |
 | [Carnet de notes](https://github.com/jeremdevgit/carnet-rust) | Windows | Encrypted notebooks and experimental sync |
-| [JMeca](https://github.com/jeremdevgit/jmeca) | Windows, macOS, Linux | Encrypted vehicle maintenance tracker |
 | [Decklight](https://github.com/jeremdevgit/decklight) | Windows, macOS, Linux | Virtual Stream Deck with USB control |
+| [JMeca](https://github.com/jeremdevgit/jmeca) | Windows, macOS, Linux | Encrypted vehicle maintenance tracker |
 | [LJ Hub](https://github.com/jeremdevgit/lj-hub) | Windows, macOS, Linux | Logitech device profile manager |
 | [Pomme](https://github.com/jeremdevgit/pomme) | Windows | Apple Music and local music player |
 | [rJb](https://github.com/jeremdevgit/rjb) | Windows | RGB lighting control |
 | [Ludothèque](https://github.com/jeremdevgit/ludotheque) | macOS | Game library and launcher |
-| [Suite Libre](https://github.com/jeremdevgit/suite-libre) | Browser | Six tools without an account |
+| [Suite Libre](https://jeremdevgit.github.io/suite-libre/) | Browser | Six tools without an account |
 | [Batailles de France](https://github.com/jeremdevgit/batailles-de-france) | Browser | Real-time strategy game |

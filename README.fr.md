@@ -1,3 +1,5 @@
+<p align="center"><img src="public/icon-512.png" width="96" alt=""></p>
+
 # AutoDex
 
 [![CI](https://github.com/jeremdevgit/autodex/actions/workflows/ci.yml/badge.svg)](https://github.com/jeremdevgit/autodex/actions/workflows/ci.yml) [![CodeQL](https://github.com/jeremdevgit/autodex/actions/workflows/codeql.yml/badge.svg)](https://github.com/jeremdevgit/autodex/actions/workflows/codeql.yml) [![Licence : GPL-3.0-or-later](https://img.shields.io/badge/licence-GPL--3.0--or--later-blue)](LICENSE) [![Version](https://img.shields.io/github/v/release/jeremdevgit/autodex?include_prereleases)](https://github.com/jeremdevgit/autodex/releases)
@@ -57,19 +59,19 @@ Aucune télémétrie, aucun compte, aucune requête externe : le modèle d'IA et
 
 Mainteneur : [jeremdevgit](https://github.com/jeremdevgit). Licence GPL-3.0-or-later. Crédits et licences du modèle et des bibliothèques : [THIRD_PARTY.md](THIRD_PARTY.md). Historique : [CHANGELOG.md](CHANGELOG.md). AutoDex n'est affilié à aucun constructeur ; les noms de marques et de modèles appartiennent à leurs propriétaires.
 
-## Mes logiciels
+## Mes autres logiciels
 
-Tous libres et gratuits — [github.com/jeremdevgit](https://github.com/jeremdevgit) :
+Tous libres, gratuits et sans publicité — [github.com/jeremdevgit](https://github.com/jeremdevgit) :
 
 | Logiciel | Plateforme | En bref |
 |---|---|---|
-| [Boîte à outils](https://github.com/jeremdevgit/boite-a-outils) | Windows, macOS | Entretien de l’ordinateur et recherche de fichiers |
-| [Carnet de notes](https://github.com/jeremdevgit/carnet-rust) | Windows | Notes chiffrées et synchronisation expérimentale |
-| [JMeca](https://github.com/jeremdevgit/jmeca) | Windows, macOS, Linux | Suivi d’entretien automobile chiffré |
+| [Boîte à outils](https://github.com/jeremdevgit/boite-a-outils) | Windows, macOS | Entretien de l'ordinateur, nettoyage et recherche de fichiers |
+| [Carnet de notes](https://github.com/jeremdevgit/carnet-rust) | Windows | Carnets chiffrés et synchronisation expérimentale |
 | [Decklight](https://github.com/jeremdevgit/decklight) | Windows, macOS, Linux | Stream Deck virtuel avec contrôle USB |
-| [LJ Hub](https://github.com/jeremdevgit/lj-hub) | Windows, macOS, Linux | Gestion des profils de périphériques Logitech |
-| [Pomme](https://github.com/jeremdevgit/pomme) | Windows | Apple Music et musique locale |
-| [rJb](https://github.com/jeremdevgit/rjb) | Windows | Éclairage RGB |
+| [JMeca](https://github.com/jeremdevgit/jmeca) | Windows, macOS, Linux | Suivi d'entretien de véhicules chiffré |
+| [LJ Hub](https://github.com/jeremdevgit/lj-hub) | Windows, macOS, Linux | Gestionnaire de profils pour appareils Logitech |
+| [Pomme](https://github.com/jeremdevgit/pomme) | Windows | Lecteur de musique Apple Music et fichiers locaux |
+| [rJb](https://github.com/jeremdevgit/rjb) | Windows | Contrôle de l'éclairage RGB |
 | [Ludothèque](https://github.com/jeremdevgit/ludotheque) | macOS | Bibliothèque et lanceur de jeux |
-| [Suite Libre](https://github.com/jeremdevgit/suite-libre) | Navigateur | Six outils sans compte |
+| [Suite Libre](https://jeremdevgit.github.io/suite-libre/) | Navigateur | Six outils sans compte |
 | [Batailles de France](https://github.com/jeremdevgit/batailles-de-france) | Navigateur | Jeu de stratégie en temps réel |
