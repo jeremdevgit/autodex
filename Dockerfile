@@ -1,12 +1,12 @@
 # Self-hosted AutoDex server (web app + sync) for a NAS or home server.
-FROM node:22-alpine AS build
+FROM node:26-alpine AS build
 WORKDIR /app
 COPY package.json package-lock.json ./
 RUN npm ci --ignore-scripts
 COPY . .
 RUN npm run build
 
-FROM node:22-alpine
+FROM node:26-alpine
 WORKDIR /app
 ENV NODE_ENV=production PORT=4174 AUTODEX_DATA_DIR=/data
 COPY --from=build /app/dist ./dist
