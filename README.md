@@ -1,26 +1,38 @@
-<p align="center"><img src="public/icon-512.png" width="96" alt=""></p>
+<p align="center"><img src="public/icon-512.png" width="112" alt=""></p>
 
-# AutoDex
+<h1 align="center">AutoDex</h1>
 
-[![CI](https://github.com/jeremdevgit/autodex/actions/workflows/ci.yml/badge.svg)](https://github.com/jeremdevgit/autodex/actions/workflows/ci.yml) [![CodeQL](https://github.com/jeremdevgit/autodex/actions/workflows/codeql.yml/badge.svg)](https://github.com/jeremdevgit/autodex/actions/workflows/codeql.yml) [![License: GPL-3.0-or-later](https://img.shields.io/badge/license-GPL--3.0--or--later-blue)](LICENSE) [![Release](https://img.shields.io/github/v/release/jeremdevgit/autodex?include_prereleases)](https://github.com/jeremdevgit/autodex/releases)
+<p align="center"><b>Spot it, snap it, collect it: a car collection game with on-device photo recognition.</b></p>
 
-[**English**](README.md) · [Français](README.fr.md) · [Español](README.es.md)
+<p align="center"><img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Music%20%26%20games-Windows%20%C2%B7%20macOS%20%C2%B7%20Linux%20%C2%B7%20Phone-c2410c?style=flat-square" alt="Music & games"> <a href="https://github.com/jeremdevgit/autodex/releases"><img src="https://img.shields.io/github/v/release/jeremdevgit/autodex?include_prereleases&style=flat-square&label=version" alt="version"></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0--or--later-555?style=flat-square" alt="GPL-3.0-or-later"></a> <a href="https://github.com/jeremdevgit/autodex/actions/workflows/ci.yml"><img src="https://github.com/jeremdevgit/autodex/actions/workflows/ci.yml/badge.svg" alt="CI"></a></p>
 
-**Spot it, snap it, collect it.** Take a photo of a car in the street, the on-device AI suggests the model, and the card is unlocked in your collection. 543 cars from 1980 to 2026, 74 brands, five rarity levels. No account, no ads, no cloud: photos stay on your devices.
+<p align="center"><b>English</b> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a> · <a href="README.de.md">Deutsch</a> · <a href="README.it.md">Italiano</a> · <a href="README.pt.md">Português</a> · <a href="README.zh.md">简体中文</a> · <a href="README.ja.md">日本語</a></p>
 
-## Download
-
-Get the latest version from the [releases page](https://github.com/jeremdevgit/autodex/releases): Windows `.exe` installer (per user), macOS universal `.dmg` (Apple Silicon and Intel), Linux `.deb` and `.AppImage`. Check the files against `SHA256SUMS.txt`. The installers are not signed with a paid certificate: Windows SmartScreen may ask for confirmation, and on macOS open the app with right-click → **Open** the first time.
-
-On a **phone**, nothing to install: start the server from the desktop app (Settings → Mobile server), then open the address it shows in your phone's browser on the same Wi-Fi. You can add it to the home screen.
-
-## Screenshots
-
-Demonstration data with synthetic pictures, captured from the real interface.
+<p align="center"><a href="https://github.com/jeremdevgit/autodex/releases/latest"><b>⬇ Download</b></a></p>
 
 ![Collection](docs/screenshots/collection-en.png)
 
-<p><img src="docs/screenshots/detail-en.png" width="62%"> <img src="docs/screenshots/mobile-en.png" width="30%"></p>
+Take a photo of a car in the street, the **on-device AI** suggests the model, and the card is unlocked in your collection: **543 cars from 1980 to 2026, 74 brands, five rarity levels**. No account, no ads, no cloud.
+
+<p><img src="docs/screenshots/detail-en.png" alt="Car card" width="62%"> <img src="docs/screenshots/mobile-en.png" alt="On a phone" width="30%"></p>
+
+## At a glance
+
+| | |
+|---|---|
+| **Category** | 🎮 Music & games |
+| **Platforms** | Windows · macOS · Linux · phones (web) |
+| **Interface** | 8 languages (EN, FR, ES, DE, IT, PT, ZH, JA) |
+| **Price** | Free, open source, no ads, no telemetry |
+| **Status** | Stable |
+| **License** | [GPL-3.0-or-later](LICENSE) |
+
+## How to play
+
+1. **Spot** a car and take a photo (or import one).
+2. **Confirm** the model among the AI's top 5 suggestions — 196 models are recognized; others can be added by hand.
+3. **Collect**: the silhouette becomes your photo, with a 3D model, factory paint names, power, energy and indicative value.
+4. **Complete** your collection by brand, body type, rarity, decade or year.
 
 ![By year](docs/screenshots/years-en.png)
 
@@ -28,50 +40,51 @@ Demonstration data with synthetic pictures, captured from the real interface.
 
 | | |
 |---|---|
-| Photo recognition | ResNet-50 model running **locally** (WebAssembly, no upload). Top 5 suggestions with confidence; you confirm the right car. 196 models are recognisable, the others are added manually and marked as not AI-verified. |
-| Collection | 543 cars (1980–2026): locked silhouettes until captured, then your photos, a 3D model you can rotate, real factory paint names, power, energy and indicative value. |
-| Sort and filter | Brand, body type, rarity, value range, energy, decade, owned/missing; sort by year, rarity, value, power or name. "By year" view. |
-| Backup | Full export to one JSON file (photos included); import by merging or replacing. |
-| Phone ↔ computer sync | The desktop app includes a local server protected by an 8-character pairing code. Merge is per photo (latest change wins, deletions are kept). |
-| Self-hosting | `npm run build && npm run server` or the `Dockerfile` for a NAS. |
-| Languages | Français, English, Español, Deutsch, Italiano, Português, 简体中文, 日本語. |
+| Photo recognition | ResNet-50 running **locally** in WebAssembly; nothing is uploaded |
+| Sort and filter | Brand, body, rarity, value, energy, decade, owned/missing; "By year" view |
+| Backup | Full export to one JSON file (photos included); merge or replace on import |
+| Phone ↔ computer | The desktop app hosts a local server protected by an 8-character pairing code; per-photo merge |
+| Self-hosting | `npm run build && npm run server`, or the `Dockerfile` for a NAS |
 
-Specs are those of a representative version and values are indicative; they vary with trim, market and condition.
+Specs describe a representative version; values are indicative.
+
+## Install
+
+Get the [latest release](https://github.com/jeremdevgit/autodex/releases/latest): Windows `.exe` (per user), macOS universal `.dmg`, Linux `.deb` and `.AppImage`; verify with `SHA256SUMS.txt`. Installers are not signed with a paid certificate (SmartScreen may ask; on macOS use right-click › **Open** the first time).
+
+**On a phone**, nothing to install: start the server in the desktop app (*Settings › Mobile server*), open the address it shows on the same Wi-Fi and add it to your home screen.
+
+## Privacy
+
+No telemetry, no account, no external request: the model, fonts and runtime are bundled. Photos stay in the app and leave the device only when you export or sync. The sync server accepts only validated data, blocks an address after 10 wrong codes and is meant for a home network — put HTTPS in front before exposing it.
 
 ## Build from source
 
-Requirements: Node.js 20+, Rust stable and the [Tauri prerequisites](https://tauri.app/start/prerequisites/) for your system.
-
 ```sh
+# Node.js 20+, Rust stable and the Tauri prerequisites
 npm ci
-npm run dev            # web version on http://localhost:5173
-npm test               # unit tests
-npm run desktop:build  # desktop installers
+npm run dev              # web version on http://localhost:5173
+npm test
+npm run desktop:build    # desktop installers
+docker build -t autodex . && docker run -p 4174:4174 -v autodex-data:/data autodex
 ```
 
-Self-hosted server: `npm run build && npm run server` (variables `PORT`, `HOST`, `AUTODEX_DATA_DIR`). With Docker: `docker build -t autodex . && docker run -p 4174:4174 -v autodex-data:/data autodex`. The pairing code is printed at start-up and stored in the data folder. The desktop app can also start its server at launch with `AUTODEX_SERVER_PORT=4174`.
+Server variables: `PORT`, `HOST`, `AUTODEX_DATA_DIR`; `AUTODEX_SERVER_PORT=4174` starts the desktop app's server at launch. Changes: [CHANGELOG.md](CHANGELOG.md).
 
-## Privacy and security
+## License
 
-No telemetry, no account, no external request: the AI model, fonts and runtime are bundled. Photos are stored in the app (IndexedDB) and only leave the device when you export or sync them. The sync server only accepts validated data (JPEG/PNG/WebP photos, bounded sizes), blocks an address after 10 wrong codes, and is meant for a home network: do not expose it to the Internet without HTTPS in front. See [SECURITY.md](SECURITY.md).
+GPL-3.0-or-later — see [LICENSE](LICENSE). Model and library credits: [THIRD_PARTY.md](THIRD_PARTY.md). AutoDex is not affiliated with any car manufacturer; brand and model names belong to their owners.
 
-## Project
+---
 
-Maintainer: [jeremdevgit](https://github.com/jeremdevgit). Licensed under GPL-3.0-or-later. Credits and licences of the model and libraries: [THIRD_PARTY.md](THIRD_PARTY.md). Changes: [CHANGELOG.md](CHANGELOG.md). AutoDex is not affiliated with any car manufacturer; brand and model names belong to their owners.
+Found a vulnerability? Please report it privately (see [SECURITY.md](SECURITY.md)) rather than in a public issue.
 
-## My other software
+## More free software by jeremdevgit
 
-All free, open source and ad-free — [github.com/jeremdevgit](https://github.com/jeremdevgit):
+All free, open source and ad-free.
 
-| Software | Platform | In short |
-|---|---|---|
-| [Boîte à outils](https://github.com/jeremdevgit/boite-a-outils) | Windows, macOS | Computer maintenance, cleanup and file search |
-| [Carnet de notes](https://github.com/jeremdevgit/carnet-rust) | Windows | Encrypted notebooks and experimental sync |
-| [Decklight](https://github.com/jeremdevgit/decklight) | Windows, macOS, Linux | Virtual Stream Deck with USB control |
-| [JMeca](https://github.com/jeremdevgit/jmeca) | Windows, macOS, Linux | Encrypted vehicle maintenance tracker |
-| [LJ Hub](https://github.com/jeremdevgit/lj-hub) | Windows, macOS, Linux | Logitech device profile manager |
-| [Pomme](https://github.com/jeremdevgit/pomme) | Windows | Apple Music and local music player |
-| [rJb](https://github.com/jeremdevgit/rjb) | Windows | RGB lighting control |
-| [Ludothèque](https://github.com/jeremdevgit/ludotheque) | macOS | Game library and launcher |
-| [Suite Libre](https://jeremdevgit.github.io/suite-libre/) | Browser | Six tools without an account |
-| [Batailles de France](https://github.com/jeremdevgit/batailles-de-france) | Browser | Real-time strategy game |
+**🛠️ System & hardware** — [Boîte à outils](https://github.com/jeremdevgit/boite-a-outils) · [rJb](https://github.com/jeremdevgit/rjb) · [LJ Hub](https://github.com/jeremdevgit/lj-hub) · [Decklight](https://github.com/jeremdevgit/decklight)
+
+**📒 Productivity & data** — [Carnet de notes](https://github.com/jeremdevgit/carnet-rust) · [JMeca](https://github.com/jeremdevgit/jmeca) · [Suite Libre](https://jeremdevgit.github.io/suite-libre/)
+
+**🎮 Music & games** — [Pomme](https://github.com/jeremdevgit/pomme) · [Ludothèque](https://github.com/jeremdevgit/ludotheque) · [Batailles de France](https://github.com/jeremdevgit/batailles-de-france)
