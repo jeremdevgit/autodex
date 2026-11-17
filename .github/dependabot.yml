@@ -18,6 +18,10 @@ updates:
     directory: /
     schedule: { interval: weekly }
     open-pull-requests-limit: 5
+    ignore:
+      # Stay on Node LTS (even) releases; odd majors are short-lived.
+      - dependency-name: node
+        versions: ["23.x", "25.x", "27.x"]
     groups:
       minor-and-patch:
         update-types: [minor, patch]
